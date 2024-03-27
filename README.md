@@ -1,4 +1,4 @@
-# Desafío - Prueba de Conocimientos en React
+# Desafío - Introducción a React
 
 En este desafío, he construido una aplicación en React que consume una API de cócteles. La aplicación permite buscar cócteles por letra, filtrar por categoría y obtener un cocktail de forma aleatoria.
 

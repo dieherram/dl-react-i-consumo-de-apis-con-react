@@ -12,7 +12,7 @@ const Buscador = ({ letraBusqueda, setLetraBusqueda }) => {
       <h2 className="text-start">Select a letter:</h2>
       <div className="letras-container d-flex justify-content-center flex-wrap justify-content-between gap-2">
         {abecedario.map(letra => (
-          <button className="btn btn-primary" onClick={() => handleLetraMenu(letra)}>{letra}</button>
+          <button className="btn btn-primary" key={letra} onClick={() => handleLetraMenu(letra)}>{letra}</button>
         ))}
       </div>
       <div className="selected-info-container d-flex gap-5">

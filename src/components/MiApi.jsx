@@ -84,7 +84,7 @@ const MiApi = () => {
         setLetraBusqueda={setLetraBusqueda}
       />
       <div className="filtro-container container d-flex flex-column align-items-start gap-3">
-        <div className="dropdown">
+        <div className="dropup">
           <button
             className="btn btn-outline-primary dropdown-toggle text-start d-flex align-items-center justify-content-between"
             type="button"

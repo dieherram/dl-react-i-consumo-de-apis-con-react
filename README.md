@@ -4,7 +4,7 @@ En este desafío, he construido una aplicación en React que consume una API de 
 
 ## Video Explicativo 📹
 
-El video explicativo de la aplicación se encuentra disponible en [YouTube](https://www.youtube.com/watch?v=).
+El video explicativo de la aplicación se encuentra disponible en [YouTube](https://www.youtube.com/watch?v=5kuTT64pH-k).
 
 ## Capturas de Pantalla 🖼️
 

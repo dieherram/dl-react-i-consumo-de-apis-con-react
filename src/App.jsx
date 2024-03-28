@@ -21,8 +21,8 @@ function App() {
         </section>
 
         <section>
-          <h2>Indulge in Cocktail Culture</h2>
-          <p>Explore a wide variety of cocktails from around the world. From classic favorites to trendy concoctions, we have it all.</p>
+          <h2>Craft the Perfect Blend</h2>
+          <p>Dive into the vibrant world of mixology with our diverse selection of cocktails from across the globe. From revered classics to innovative creations, our collection offers a taste of cocktail culture at its finest.</p>
         </section>
 
 

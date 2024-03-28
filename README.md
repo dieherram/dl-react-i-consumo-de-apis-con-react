@@ -2,10 +2,6 @@
 
 En este desafío, he construido una aplicación en React que consume una API de cócteles. La aplicación permite buscar cócteles por letra, filtrar por categoría y obtener un cocktail de forma aleatoria.
 
-## Video Explicativo 📹
-
-El video explicativo de la aplicación se encuentra disponible en [YouTube](https://www.youtube.com/watch?v=5kuTT64pH-k).
-
 ## Capturas de Pantalla 🖼️
 
 ### Landing Page
